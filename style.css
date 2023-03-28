@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.user {
+    color: rebeccapurple;
+}
+
+.btn {
+    text-decoration: none;
+    background-color: navajowhite;
+    border-radius: 4px;
+    padding: 7px 7px;
+    color: #ffffff;
+    box-shadow: 0px 0px 0px 3px rgb(74 123 130 / 68%)
+}
+.task {
+    padding-top: 12px;
+}
